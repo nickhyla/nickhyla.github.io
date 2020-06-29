@@ -1,0 +1,67 @@
+
+
+@media only screen and (max-width: 1400px) {
+  html {
+    font-size: 18px;
+  }
+
+  .author-title {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  html {
+    font-size: 17px;
+  }
+
+  .author-text {
+    line-height: 130%;
+  }
+
+  .author-img {
+    height: 60vh;
+  }
+
+  .left {
+    padding: 20vh 5vw;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  html {
+    font-size: 16px;
+  }
+
+  .author-title {
+    line-height: 90%;
+  }
+  
+  .author-span {
+    line-height: 60%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+ .author-title {
+   font-size: 300%;
+ }
+ 
+  .author-span {
+   font-size: 60%;
+ }
+
+ .author-img {
+  height: 50vh;
+}
+
+.left {
+  padding: 25vh 5vw;
+}
+}
+
+@media only screen and (max-width: 480px) {
+  html {
+    font-size: 15px;
+  }
+}
