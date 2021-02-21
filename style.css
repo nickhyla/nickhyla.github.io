@@ -23,12 +23,6 @@ html {
   clear: both;
 }
 
-/* .color {
-  background-color: #ca5b77;
-  position: absolute;
-  width: 36%;
-  z-index: -1;
-} */
 
 /* 
 *
@@ -134,7 +128,7 @@ h3 {
 }
 
 .card:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
 }
 
 .card-img {
@@ -159,7 +153,7 @@ h3 {
   border-radius: 13px;
   padding: 5px 15px;
   font-size: 110%;
-  font-weight: 400;
+  font-weight: 500;
   margin-top: 15px;
   margin-right: 15px;
   text-decoration: none;
@@ -174,16 +168,13 @@ h3 {
 .btn-full:hover {
   background-color: #fff;
   color: #ca5b77;
-  font-weight: 600;
 }
 
 .btn-lite {
   color: #ca5b77;
-  font-weight: 600;
 }
 
 .btn-lite:hover {
   background-color: #ca5b77;
   color: #fff;
-  font-weight: 400;
 }

@@ -18,6 +18,18 @@ Project List
 
 var projectList = [
   {
+    title: 'Cafe Roma',
+    url: 'https://nickhyla.github.io/cafe-roma/',
+    img: 'thumbnails/Cafe_Roma_Thumbnail.png',
+    type: CODE_TYPE
+  },
+  {
+    title: 'Cafe Roma',
+    url: 'https://nickhyla.github.io/cafe-roma/',
+    img: 'thumbnails/Cafe_Roma_Thumbnail.png',
+    type: DESIGN_TYPE
+  },
+  {
     title: 'Omnifood',
     url: 'https://nickhyla.github.io/Omnifood/',
     img: 'thumbnails/Omnifood_Thumbnail.png',
@@ -47,7 +59,6 @@ var projectList = [
     img: 'thumbnails/Math-Game_Thumbnail.png',
     type: CODE_TYPE
   },
-
 
 ];
 
